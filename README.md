@@ -15,5 +15,7 @@ Interesting features:
   - hamburger button <> close button,
   - fadeIn links,
   - resize image on hover (larger screens)  
+
+  Previous git history won't be available.
   
   Any feedback is welcome.
