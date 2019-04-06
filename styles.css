@@ -448,6 +448,24 @@ html, body{
 
 /* ======================= Media Queries ======================= */
 
+@media(min-width: 2000px){
+  html,body{
+    font-size: 30px;
+  }
+}
+
+@media(min-width: 2500px){
+  html,body{
+    font-size: 40px;
+  }
+}
+
+@media(min-width: 3800px){
+  html,body{
+    font-size: 60px;
+  }
+}
+
 @media(max-width: 1200px) {
   .about-us, .contact{
     grid-template-columns: 1fr;
