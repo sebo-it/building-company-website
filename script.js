@@ -15,6 +15,6 @@ function afterDomContentLoaded(){
     }
 
     function closePopup(){
-        popupBg = document.getElementsByClassName("popup-bg")[0].style.display = "none";
+        popupBg.style.display = "none";
     }
 }
