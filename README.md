@@ -14,7 +14,7 @@ Interesting features:
   - skew transition (logo:hover),
   - hamburger button <> close button,
   - fadeIn links,
-  - resize image on hover (larger screens)  
+  - resize image on hover  
 
   Previous git history won't be available.
   
